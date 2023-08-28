@@ -11,16 +11,16 @@ export default function Navbar() {
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Bayan</a>
+          <a class="nav-link active" aria-current="page" href="/bayan">Bayan</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Quran</a>
+          <a class="nav-link" href="/quran">Quran</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Hadees</a>
+          <a class="nav-link" href="/hadees">Hadees</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Duai</a>
+          <a class="nav-link" href="/duai">Duai</a>
         </li>   
       </ul>
     </div>
