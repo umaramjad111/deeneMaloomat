@@ -140,7 +140,7 @@ export default function Quran() {
                 </div> */}
               <div>
                 <img src={QuranPak} alt="" />
-               <p><a href={item.link} target='_blank' className='text-decoration-none text-black fs-5 fw-bold'>{item.name}</a></p>  
+               <p><a href={item.link} target='_blank' rel="noopener noreferrer" className='text-decoration-none text-black fs-5 fw-bold'>{item.name}</a></p>  
               </div>
             </div>
         ))}
