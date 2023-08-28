@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/deeneMaloomat/static/css/main.666dbd63.css",
+    "main.js": "/deeneMaloomat/static/js/main.806421a8.js",
+    "static/js/787.7d8e415d.chunk.js": "/deeneMaloomat/static/js/787.7d8e415d.chunk.js",
+    "static/media/makkah.jpg": "/deeneMaloomat/static/media/makkah.211ffa678fc16edabad8.jpg",
+    "static/media/madina.jpeg": "/deeneMaloomat/static/media/madina.10559eccc14a242485c5.jpeg",
+    "static/media/quran.jpg": "/deeneMaloomat/static/media/quran.e1417d13966351e52421.jpg",
+    "index.html": "/deeneMaloomat/index.html",
+    "main.666dbd63.css.map": "/deeneMaloomat/static/css/main.666dbd63.css.map",
+    "main.806421a8.js.map": "/deeneMaloomat/static/js/main.806421a8.js.map",
+    "787.7d8e415d.chunk.js.map": "/deeneMaloomat/static/js/787.7d8e415d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.666dbd63.css",
+    "static/js/main.806421a8.js"
+  ]
+}
