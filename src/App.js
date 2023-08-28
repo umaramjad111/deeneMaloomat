@@ -10,10 +10,11 @@ function App() {
   
   return (
     <div className="App">
-     <Navbar/>
+     {/* <Navbar/>
       <img src={Makkah} alt="" className='w-100' />
       <Bayan/>
-      <Quran/>
+      <Quran/> */}
+      <h5>fsdf</h5>
     </div>
   );
 }
