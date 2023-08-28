@@ -1,8 +1,8 @@
 import './App.css';
-import Bayan from './components/bayan/bayan';
-import Navbar from './components/navbar/navbar';
-import Quran from './components/quran/quran';
-import { Makkah } from './utils/image';
+// import Bayan from './components/bayan/bayan';
+// import Navbar from './components/navbar/navbar';
+// import Quran from './components/quran/quran';
+// import { Makkah } from './utils/image';
 
 function App() {
 
