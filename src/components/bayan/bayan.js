@@ -1,4 +1,4 @@
-import React , {useEffect, useState} from 'react'
+import React , { useState} from 'react'
 import YouTube from 'react-youtube';
 import { Madina } from '../../utils/image';
 import Modal from 'react-bootstrap/Modal';
@@ -6,7 +6,6 @@ export default function Bayan() {
 
     const [id, setId] = useState();
 
-    const handleOpen = () => setId();
   const handleClose = () => setId(null);
 
     const opts = {
