@@ -1,5 +1,21 @@
+import './App.css';
+import Bayan from './components/bayan/bayan';
+import Navbar from './components/navbar/navbar';
+import Quran from './components/quran/quran';
+import { Makkah } from './utils/image';
+
 function App() {
-  return <h5>fsdf</h5>;
+
+  
+  
+  return (
+    <div className="App">
+     <Navbar/>
+      <img src={Makkah} alt="" className='w-100' />
+      <Bayan/>
+      <Quran/>
+    </div>
+  );
 }
 
 export default App;
